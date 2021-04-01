@@ -1,0 +1,10 @@
+{
+  "Id": "SortByCategory",
+  "DisplayName": "Sort by Category",
+  "Author": "xoff",
+  "Version": "1.1.0",
+  "ManagerVersion": "0.22.9",
+  "Requirements": [],
+  "AssemblyName": "SortByCategory.dll",
+  "EntryMethod": "SortByCategory.Main.Load"
+}
